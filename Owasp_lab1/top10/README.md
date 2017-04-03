@@ -15,8 +15,8 @@ fixed:
 </p>
 ```
 差異點為 nfixed 中並沒有使用到 basename() 函數  
-basename() 函數在這邊的作用為驗證其檔案是否存在  
-假如有以下這個網址  
+basename() 函數在這邊的作用為驗證其檔案是否存在  
+假如有以下這個網址
 ```
 http://example.com/index.php?url=http://example2.com/virus.php
 ```
